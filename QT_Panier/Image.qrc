@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/home/metinan/icone">
+        <file>add.png</file>
+        <file>save.png</file>
+        <file>remove.png</file>
+    </qresource>
+</RCC>
